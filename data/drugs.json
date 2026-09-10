@@ -1,0 +1,385 @@
+{
+  "paracetamol": {
+    "nama_generik": "Paracetamol",
+    "kandungan_aktif": "Paracetamol (Acetaminophen)",
+    "kategori": "Analgesik & Antipiretik",
+    "merk_dagang": [
+      "Panadol",
+      "Sanmol",
+      "Bodrex",
+      "Tempra",
+      "Pamol"
+    ],
+    "overview": "Digunakan untuk meredakan nyeri ringan-sedang dan menurunkan demam.",
+    "alias_ocr": [
+      "bodrex",
+      "pamol",
+      "panadol",
+      "paracetamol",
+      "sanmol",
+      "tempra"
+    ]
+  },
+  "ibuprofen": {
+    "nama_generik": "Ibuprofen",
+    "kandungan_aktif": "Ibuprofen",
+    "kategori": "NSAID (antiinflamasi nonsteroid)",
+    "merk_dagang": [
+      "Proris",
+      "Bufect",
+      "Arfen"
+    ],
+    "overview": "Meredakan nyeri, peradangan, dan demam.",
+    "alias_ocr": [
+      "arfen",
+      "bufect",
+      "ibuprofen",
+      "proris"
+    ]
+  },
+  "asam_mefenamat": {
+    "nama_generik": "Asam Mefenamat",
+    "kandungan_aktif": "Mefenamic acid",
+    "kategori": "NSAID",
+    "merk_dagang": [
+      "Ponstan",
+      "Mefinal"
+    ],
+    "overview": "Meredakan nyeri sedang seperti nyeri haid dan sakit gigi.",
+    "alias_ocr": [
+      "asam mefenamat",
+      "mefenamic",
+      "mefinal",
+      "ponstan"
+    ]
+  },
+  "aspirin": {
+    "nama_generik": "Aspirin",
+    "kandungan_aktif": "Acetylsalicylic acid",
+    "kategori": "NSAID / Antiplatelet",
+    "merk_dagang": [
+      "Aspilets",
+      "Ascardia",
+      "Aspirin"
+    ],
+    "overview": "Dosis rendah digunakan sebagai pengencer darah pencegah stroke/serangan jantung; dosis tinggi sebagai pereda nyeri.",
+    "alias_ocr": [
+      "acetylsalicylic",
+      "ascardia",
+      "aspilets",
+      "aspirin"
+    ]
+  },
+  "amoxicillin": {
+    "nama_generik": "Amoxicillin",
+    "kandungan_aktif": "Amoxicillin",
+    "kategori": "Antibiotik (Penisilin)",
+    "merk_dagang": [
+      "Amoxsan",
+      "Yusimox",
+      "Amoxicillin"
+    ],
+    "overview": "Antibiotik untuk infeksi bakteri saluran pernapasan, telinga, dan saluran kemih.",
+    "alias_ocr": [
+      "amoxicillin",
+      "amoxsan",
+      "yusimox"
+    ]
+  },
+  "cetirizine": {
+    "nama_generik": "Cetirizine",
+    "kandungan_aktif": "Cetirizine HCl",
+    "kategori": "Antihistamin (generasi 2)",
+    "merk_dagang": [
+      "Cerini",
+      "Estin"
+    ],
+    "overview": "Meredakan alergi seperti gatal, bersin, dan hidung meler; efek mengantuk lebih ringan dibanding antihistamin generasi 1.",
+    "alias_ocr": [
+      "cerini",
+      "cetirizine",
+      "estin"
+    ]
+  },
+  "loratadine": {
+    "nama_generik": "Loratadine",
+    "kandungan_aktif": "Loratadine",
+    "kategori": "Antihistamin (generasi 2)",
+    "merk_dagang": [
+      "Clarityne",
+      "Alloris"
+    ],
+    "overview": "Meredakan gejala alergi tanpa efek mengantuk signifikan.",
+    "alias_ocr": [
+      "alloris",
+      "clarityne",
+      "loratadine"
+    ]
+  },
+  "ctm": {
+    "nama_generik": "Chlorpheniramine Maleate (CTM)",
+    "kandungan_aktif": "Chlorpheniramine maleate",
+    "kategori": "Antihistamin (generasi 1, sedatif)",
+    "merk_dagang": [
+      "CTM",
+      "Alerhis"
+    ],
+    "overview": "Antihistamin lama, efektif meredakan alergi namun menyebabkan kantuk kuat.",
+    "alias_ocr": [
+      "alerhis",
+      "chlorpheniramine",
+      "chlorpheniramine maleate (ctm)",
+      "ctm"
+    ]
+  },
+  "dextromethorphan": {
+    "nama_generik": "Dextromethorphan",
+    "kandungan_aktif": "Dextromethorphan HBr",
+    "kategori": "Antitusif (pereda batuk kering)",
+    "merk_dagang": [
+      "Vicks Formula 44",
+      "Woods"
+    ],
+    "overview": "Meredakan batuk kering/tidak berdahak dengan menekan refleks batuk di otak.",
+    "alias_ocr": [
+      "dextromethorphan",
+      "vicks formula 44",
+      "woods"
+    ]
+  },
+  "ambroxol": {
+    "nama_generik": "Ambroxol",
+    "kandungan_aktif": "Ambroxol Hydrochloride",
+    "kategori": "Mukolitik (pengencer dahak)",
+    "merk_dagang": [
+      "Mucera",
+      "Mucosolvan",
+      "RhelixMED"
+    ],
+    "overview": "Mengencerkan dahak untuk batuk berdahak agar lebih mudah dikeluarkan.",
+    "alias_ocr": [
+      "ambroxol",
+      "mucera",
+      "mucosolvan",
+      "rhelixmed"
+    ]
+  },
+  "omeprazole": {
+    "nama_generik": "Omeprazole",
+    "kandungan_aktif": "Omeprazole",
+    "kategori": "PPI (penghambat pompa proton)",
+    "merk_dagang": [
+      "Pumpitor",
+      "Losec",
+      "Omepros"
+    ],
+    "overview": "Menurunkan produksi asam lambung untuk mengatasi maag dan GERD.",
+    "alias_ocr": [
+      "losec",
+      "omeprazole",
+      "omepros",
+      "pumpitor"
+    ]
+  },
+  "antasida": {
+    "nama_generik": "Antasida",
+    "kandungan_aktif": "Aluminium hidroksida & Magnesium hidroksida",
+    "kategori": "Antasida",
+    "merk_dagang": [
+      "Promag",
+      "Mylanta",
+      "Polysilane"
+    ],
+    "overview": "Menetralkan asam lambung secara cepat untuk meredakan maag.",
+    "alias_ocr": [
+      "aluminium",
+      "antasida",
+      "mylanta",
+      "polysilane",
+      "promag"
+    ]
+  },
+  "metformin": {
+    "nama_generik": "Metformin",
+    "kandungan_aktif": "Metformin HCl",
+    "kategori": "Antidiabetes (Biguanide)",
+    "merk_dagang": [
+      "Glucophage",
+      "Glumin"
+    ],
+    "overview": "Obat lini pertama diabetes tipe 2, menurunkan produksi gula di hati.",
+    "alias_ocr": [
+      "glucophage",
+      "glumin",
+      "metformin"
+    ]
+  },
+  "eclid": {
+    "nama_generik": "Ipragliflozin",
+    "kandungan_aktif": "Ipragliflozin L-Proline",
+    "kategori": "Antidiabetes (SGLT2 inhibitor)",
+    "merk_dagang": [
+      "Eclid"
+    ],
+    "overview": "Menurunkan gula darah dengan meningkatkan pembuangan glukosa lewat urin.",
+    "alias_ocr": [
+      "eclid",
+      "ipragliflozin"
+    ]
+  },
+  "glimepiride": {
+    "nama_generik": "Glimepiride",
+    "kandungan_aktif": "Glimepiride",
+    "kategori": "Antidiabetes (Sulfonilurea)",
+    "merk_dagang": [
+      "Amaryl"
+    ],
+    "overview": "Merangsang pankreas melepaskan lebih banyak insulin untuk menurunkan gula darah.",
+    "alias_ocr": [
+      "amaryl",
+      "glimepiride"
+    ]
+  },
+  "amlodipine": {
+    "nama_generik": "Amlodipine",
+    "kandungan_aktif": "Amlodipine besylate",
+    "kategori": "Antihipertensi (CCB)",
+    "merk_dagang": [
+      "Norvask",
+      "Tensivask"
+    ],
+    "overview": "Menurunkan tekanan darah dengan melebarkan pembuluh darah.",
+    "alias_ocr": [
+      "amlodipine",
+      "norvask",
+      "tensivask"
+    ]
+  },
+  "captopril": {
+    "nama_generik": "Captopril",
+    "kandungan_aktif": "Captopril",
+    "kategori": "Antihipertensi (ACE inhibitor)",
+    "merk_dagang": [
+      "Captopril",
+      "Tensicap"
+    ],
+    "overview": "Menurunkan tekanan darah dengan menghambat enzim pengubah angiotensin.",
+    "alias_ocr": [
+      "captopril",
+      "tensicap"
+    ]
+  },
+  "bisoprolol": {
+    "nama_generik": "Bisoprolol",
+    "kandungan_aktif": "Bisoprolol fumarate",
+    "kategori": "Antihipertensi (Beta blocker)",
+    "merk_dagang": [
+      "Concor"
+    ],
+    "overview": "Menurunkan tekanan darah dan detak jantung.",
+    "alias_ocr": [
+      "bisoprolol",
+      "concor"
+    ]
+  },
+  "simvastatin": {
+    "nama_generik": "Simvastatin",
+    "kandungan_aktif": "Simvastatin",
+    "kategori": "Antikolesterol (Statin)",
+    "merk_dagang": [
+      "Zocor",
+      "Simvastatin"
+    ],
+    "overview": "Menurunkan kadar kolesterol LDL dalam darah.",
+    "alias_ocr": [
+      "simvastatin",
+      "zocor"
+    ]
+  },
+  "warfarin": {
+    "nama_generik": "Warfarin",
+    "kandungan_aktif": "Warfarin sodium",
+    "kategori": "Antikoagulan",
+    "merk_dagang": [
+      "Simarc"
+    ],
+    "overview": "Mengencerkan darah untuk mencegah pembekuan darah pada pasien risiko stroke/trombosis.",
+    "alias_ocr": [
+      "simarc",
+      "warfarin"
+    ]
+  },
+  "abilify": {
+    "nama_generik": "Aripiprazole",
+    "kandungan_aktif": "Aripiprazole",
+    "kategori": "Antipsikotik",
+    "merk_dagang": [
+      "Abilify"
+    ],
+    "overview": "Mengatasi gangguan mental seperti skizofrenia dan gangguan bipolar dengan menyeimbangkan dopamin dan serotonin.",
+    "alias_ocr": [
+      "abilify",
+      "aripiprazole"
+    ]
+  },
+  "fluoxetine": {
+    "nama_generik": "Fluoxetine",
+    "kandungan_aktif": "Fluoxetine HCl",
+    "kategori": "Antidepresan (SSRI)",
+    "merk_dagang": [
+      "Prozac",
+      "Andep"
+    ],
+    "overview": "Mengatasi depresi dan gangguan kecemasan dengan meningkatkan kadar serotonin.",
+    "alias_ocr": [
+      "andep",
+      "fluoxetine",
+      "prozac"
+    ]
+  },
+  "alprazolam": {
+    "nama_generik": "Alprazolam",
+    "kandungan_aktif": "Alprazolam",
+    "kategori": "Ansiolitik (Benzodiazepine)",
+    "merk_dagang": [
+      "Xanax",
+      "Alganax"
+    ],
+    "overview": "Meredakan kecemasan dan panik dengan menenangkan sistem saraf pusat.",
+    "alias_ocr": [
+      "alganax",
+      "alprazolam",
+      "xanax"
+    ]
+  },
+  "loperamide": {
+    "nama_generik": "Loperamide",
+    "kandungan_aktif": "Loperamide HCl",
+    "kategori": "Antidiare",
+    "merk_dagang": [
+      "Imodium",
+      "Lodia"
+    ],
+    "overview": "Memperlambat gerakan usus untuk mengatasi diare.",
+    "alias_ocr": [
+      "imodium",
+      "lodia",
+      "loperamide"
+    ]
+  },
+  "domperidone": {
+    "nama_generik": "Domperidone",
+    "kandungan_aktif": "Domperidone",
+    "kategori": "Antiemetik & Prokinetik",
+    "merk_dagang": [
+      "Vometa",
+      "Vosea"
+    ],
+    "overview": "Meredakan mual, muntah, dan rasa begah dengan mempercepat pengosongan lambung.",
+    "alias_ocr": [
+      "domperidone",
+      "vometa",
+      "vosea"
+    ]
+  }
+}

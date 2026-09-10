@@ -1,0 +1,96 @@
+{
+  "warfarin": [
+    {
+      "item": "sayuran hijau tinggi vitamin K (bayam, brokoli, kale)",
+      "status": "perlu_perhatian",
+      "penjelasan": "Vitamin K dapat menurunkan efektivitas warfarin; konsumsi sebaiknya konsisten jumlahnya, bukan dihindari total.",
+      "sumber": "Interaksi klasik warfarin-vitamin K"
+    },
+    {
+      "item": "alkohol",
+      "status": "tidak_aman",
+      "penjelasan": "Alkohol dapat meningkatkan efek pengenceran darah warfarin secara tidak terduga.",
+      "sumber": "Interaksi mayor"
+    }
+  ],
+  "simvastatin": [
+    {
+      "item": "grapefruit / jeruk bali",
+      "status": "tidak_aman",
+      "penjelasan": "Grapefruit menghambat enzim yang memetabolisme simvastatin sehingga kadarnya di darah meningkat drastis, menambah risiko kerusakan otot.",
+      "sumber": "Interaksi mayor, tercantum pada label FDA simvastatin"
+    }
+  ],
+  "amlodipine": [
+    {
+      "item": "grapefruit / jeruk bali",
+      "status": "perlu_perhatian",
+      "penjelasan": "Grapefruit dapat meningkatkan kadar amlodipine dalam darah sehingga efek penurunan tekanan darah lebih kuat dari seharusnya.",
+      "sumber": "Interaksi moderat golongan CCB-grapefruit"
+    }
+  ],
+  "metformin": [
+    {
+      "item": "alkohol",
+      "status": "tidak_aman",
+      "penjelasan": "Alkohol meningkatkan risiko asidosis laktat, efek samping serius dari Metformin.",
+      "sumber": "Interaksi mayor, tercantum pada label Metformin"
+    }
+  ],
+  "eclid": [
+    {
+      "item": "alkohol",
+      "status": "tidak_aman",
+      "penjelasan": "Alkohol dapat meningkatkan risiko hipoglikemia (gula darah rendah) saat dikonsumsi bersama Eclid.",
+      "sumber": "Interaksi mayor golongan antidiabetes-alkohol"
+    }
+  ],
+  "paracetamol": [
+    {
+      "item": "alkohol",
+      "status": "tidak_aman",
+      "penjelasan": "Konsumsi alkohol bersama Paracetamol dalam jangka panjang meningkatkan risiko kerusakan hati.",
+      "sumber": "Interaksi mayor, dikenal luas"
+    }
+  ],
+  "aspirin": [
+    {
+      "item": "alkohol",
+      "status": "tidak_aman",
+      "penjelasan": "Alkohol meningkatkan risiko iritasi dan pendarahan lambung saat dikonsumsi bersama Aspirin.",
+      "sumber": "Interaksi mayor golongan NSAID-alkohol"
+    }
+  ],
+  "alprazolam": [
+    {
+      "item": "alkohol",
+      "status": "tidak_aman",
+      "penjelasan": "Kombinasi ini dapat menyebabkan penekanan sistem saraf pusat yang berbahaya, termasuk gangguan pernapasan.",
+      "sumber": "Interaksi mayor golongan benzodiazepine-alkohol"
+    }
+  ],
+  "captopril": [
+    {
+      "item": "makanan/garam tinggi kalium (pisang, garam diet rendah natrium)",
+      "status": "perlu_perhatian",
+      "penjelasan": "Captopril dapat meningkatkan kadar kalium darah; konsumsi berlebih makanan tinggi kalium berisiko hiperkalemia.",
+      "sumber": "Interaksi moderat golongan ACE inhibitor-kalium"
+    }
+  ],
+  "abilify": [
+    {
+      "item": "grapefruit / jeruk bali",
+      "status": "tidak_aman",
+      "penjelasan": "Grapefruit dapat meningkatkan kadar Abilify dalam darah dan memperbesar risiko efek samping.",
+      "sumber": "Interaksi mayor golongan grapefruit-CYP3A4"
+    }
+  ],
+  "ambroxol": [
+    {
+      "item": "susu",
+      "status": "aman",
+      "penjelasan": "Boleh diminum bersama susu, namun sebaiknya beri jeda agar penyerapan optimal.",
+      "sumber": "Catatan penyerapan umum"
+    }
+  ]
+}

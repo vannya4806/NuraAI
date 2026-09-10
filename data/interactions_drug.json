@@ -1,0 +1,184 @@
+[
+  {
+    "obat_a": "warfarin",
+    "obat_b": "aspirin",
+    "status": "tidak_aman",
+    "penjelasan": "Kombinasi dua zat pengencer darah meningkatkan risiko pendarahan serius.",
+    "sumber": "Interaksi mayor, konsisten dengan DDInter & FDA Drug Interactions"
+  },
+  {
+    "obat_a": "warfarin",
+    "obat_b": "ibuprofen",
+    "status": "tidak_aman",
+    "penjelasan": "NSAID dapat meningkatkan risiko pendarahan saluran cerna saat dikombinasi dengan warfarin.",
+    "sumber": "Interaksi mayor, konsisten dengan DDInter & FDA Drug Interactions"
+  },
+  {
+    "obat_a": "warfarin",
+    "obat_b": "asam_mefenamat",
+    "status": "tidak_aman",
+    "penjelasan": "NSAID meningkatkan risiko pendarahan pada pasien yang mengonsumsi warfarin.",
+    "sumber": "Interaksi mayor golongan NSAID-antikoagulan"
+  },
+  {
+    "obat_a": "warfarin",
+    "obat_b": "amoxicillin",
+    "status": "perlu_perhatian",
+    "penjelasan": "Antibiotik dapat mengganggu flora usus penghasil vitamin K sehingga meningkatkan efek warfarin; perlu pemantauan INR.",
+    "sumber": "Interaksi moderat, umum pada pemakaian antibiotik + antikoagulan"
+  },
+  {
+    "obat_a": "warfarin",
+    "obat_b": "paracetamol",
+    "status": "perlu_perhatian",
+    "penjelasan": "Penggunaan paracetamol dosis tinggi/jangka panjang bersama warfarin dapat meningkatkan efek pengenceran darah.",
+    "sumber": "Interaksi moderat pada penggunaan jangka panjang"
+  },
+  {
+    "obat_a": "captopril",
+    "obat_b": "ibuprofen",
+    "status": "perlu_perhatian",
+    "penjelasan": "NSAID dapat menurunkan efektivitas obat penurun tekanan darah dan membebani fungsi ginjal.",
+    "sumber": "Interaksi moderat golongan ACE inhibitor-NSAID"
+  },
+  {
+    "obat_a": "aspirin",
+    "obat_b": "ibuprofen",
+    "status": "tidak_aman",
+    "penjelasan": "Ibuprofen dapat menurunkan efek perlindungan jantung dari aspirin dosis rendah serta menambah risiko iritasi lambung.",
+    "sumber": "Interaksi mayor, dikenal luas dalam farmakologi klinis"
+  },
+  {
+    "obat_a": "eclid",
+    "obat_b": "metformin",
+    "status": "aman",
+    "penjelasan": "Kombinasi umum terapi diabetes tipe 2 dan sering diresepkan bersamaan oleh dokter.",
+    "sumber": "Kombinasi terapi standar diabetes"
+  },
+  {
+    "obat_a": "eclid",
+    "obat_b": "abilify",
+    "status": "tidak_aman",
+    "penjelasan": "Abilify (antipsikotik atipikal) dapat memengaruhi kadar gula darah, berlawanan dengan efek Eclid; berisiko membuat gula darah tidak stabil.",
+    "sumber": "Efek metabolik antipsikotik atipikal terhadap kontrol glikemik"
+  },
+  {
+    "obat_a": "alprazolam",
+    "obat_b": "ctm",
+    "status": "tidak_aman",
+    "penjelasan": "Kombinasi dua obat penekan sistem saraf pusat dapat menyebabkan kantuk berlebihan hingga gangguan pernapasan.",
+    "sumber": "Interaksi mayor golongan sedatif-benzodiazepine"
+  },
+  {
+    "obat_a": "alprazolam",
+    "obat_b": "cetirizine",
+    "status": "perlu_perhatian",
+    "penjelasan": "Efek mengantuk dapat menumpuk meski Cetirizine tergolong antihistamin generasi baru yang lebih ringan.",
+    "sumber": "Interaksi moderat golongan sedatif ringan"
+  },
+  {
+    "obat_a": "alprazolam",
+    "obat_b": "loperamide",
+    "status": "perlu_perhatian",
+    "penjelasan": "Kombinasi dapat meningkatkan efek penekanan sistem saraf pusat.",
+    "sumber": "Interaksi moderat"
+  },
+  {
+    "obat_a": "fluoxetine",
+    "obat_b": "aspirin",
+    "status": "perlu_perhatian",
+    "penjelasan": "SSRI dapat meningkatkan risiko pendarahan bila dikombinasikan dengan obat pengencer darah/NSAID.",
+    "sumber": "Interaksi moderat golongan SSRI-antiplatelet"
+  },
+  {
+    "obat_a": "fluoxetine",
+    "obat_b": "ibuprofen",
+    "status": "perlu_perhatian",
+    "penjelasan": "Risiko pendarahan saluran cerna meningkat pada kombinasi SSRI dengan NSAID.",
+    "sumber": "Interaksi moderat golongan SSRI-NSAID"
+  },
+  {
+    "obat_a": "fluoxetine",
+    "obat_b": "domperidone",
+    "status": "tidak_aman",
+    "penjelasan": "Keduanya berpotensi memperpanjang interval QT jantung sehingga meningkatkan risiko gangguan irama jantung.",
+    "sumber": "Interaksi mayor terkait risiko perpanjangan QT"
+  },
+  {
+    "obat_a": "simvastatin",
+    "obat_b": "amlodipine",
+    "status": "perlu_perhatian",
+    "penjelasan": "Amlodipine dapat meningkatkan kadar simvastatin dalam darah sehingga menambah risiko gangguan otot (miopati) pada dosis tinggi.",
+    "sumber": "Interaksi moderat, umum dicatat pada label FDA simvastatin"
+  },
+  {
+    "obat_a": "omeprazole",
+    "obat_b": "simvastatin",
+    "status": "aman",
+    "penjelasan": "Tidak ditemukan interaksi bermakna antara keduanya pada penggunaan dosis normal.",
+    "sumber": "Tidak ada laporan interaksi signifikan"
+  },
+  {
+    "obat_a": "ambroxol",
+    "obat_b": "amoxicillin",
+    "status": "aman",
+    "penjelasan": "Kombinasi ini justru umum diresepkan bersamaan untuk infeksi saluran napas disertai dahak.",
+    "sumber": "Kombinasi terapi umum"
+  },
+  {
+    "obat_a": "ambroxol",
+    "obat_b": "dextromethorphan",
+    "status": "perlu_perhatian",
+    "penjelasan": "Ambroxol untuk batuk berdahak dan dextromethorphan untuk batuk kering bekerja berlawanan arah; kombinasi umumnya tidak dianjurkan tanpa anjuran dokter.",
+    "sumber": "Prinsip farmakologi: mukolitik vs antitusif"
+  },
+  {
+    "obat_a": "glimepiride",
+    "obat_b": "aspirin",
+    "status": "perlu_perhatian",
+    "penjelasan": "Aspirin dosis tinggi dapat memperkuat efek penurunan gula darah dari Glimepiride, berisiko hipoglikemia.",
+    "sumber": "Interaksi moderat golongan sulfonilurea-salisilat"
+  },
+  {
+    "obat_a": "bisoprolol",
+    "obat_b": "captopril",
+    "status": "aman",
+    "penjelasan": "Kombinasi umum pada terapi hipertensi/gagal jantung dan sering diresepkan bersamaan dengan pemantauan dokter.",
+    "sumber": "Kombinasi terapi standar kardiovaskular"
+  },
+  {
+    "obat_a": "abilify",
+    "obat_b": "ambroxol",
+    "status": "aman",
+    "penjelasan": "Belum ada laporan interaksi signifikan antara Abilify dan Ambroxol pada penggunaan dosis normal.",
+    "sumber": "Tidak ada laporan interaksi signifikan"
+  },
+  {
+    "obat_a": "abilify",
+    "obat_b": "paracetamol",
+    "status": "aman",
+    "penjelasan": "Abilify dan Paracetamol umumnya aman dikonsumsi bersamaan sesuai anjuran dokter.",
+    "sumber": "Tidak ada laporan interaksi signifikan"
+  },
+  {
+    "obat_a": "ambroxol",
+    "obat_b": "eclid",
+    "status": "aman",
+    "penjelasan": "Tidak ditemukan interaksi bermakna antara Ambroxol dan Eclid.",
+    "sumber": "Tidak ada laporan interaksi signifikan"
+  },
+  {
+    "obat_a": "ambroxol",
+    "obat_b": "paracetamol",
+    "status": "aman",
+    "penjelasan": "Ambroxol dan Paracetamol dapat dikonsumsi bersamaan dan sering diresepkan dalam kombinasi obat flu.",
+    "sumber": "Kombinasi terapi umum"
+  },
+  {
+    "obat_a": "eclid",
+    "obat_b": "paracetamol",
+    "status": "aman",
+    "penjelasan": "Tidak ditemukan interaksi bermakna antara Eclid dan Paracetamol pada dosis normal.",
+    "sumber": "Tidak ada laporan interaksi signifikan"
+  }
+]
